@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=5 min eggs
+Comment=Create Standard egss - automatic
+Exec="/opt/yadeggs/producer/scripts/ask-lay-eggs.sh"
+Icon=/opt/yadeggs/producer/icons/builder/5min-eggs.png
+Terminal=false
+Name[en_US]=5 min eggs

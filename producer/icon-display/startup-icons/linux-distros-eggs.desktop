@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=eggs Distros
+Type=Application
+Comment=Linux Distros working with eggs and custom settings.
+Exec="/opt/yadeggs/producer/icon-display/scripts/eggs-distros-icons-load.sh"
+Icon=/opt/yadeggs/producer/icons/builder/linpin-distros.png
+Terminal=false
+Name[en_US]=penguins-eggs Distros

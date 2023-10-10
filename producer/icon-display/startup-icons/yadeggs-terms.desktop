@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=Yadeggs Terms
+Type=Application
+Comment=Yadeggs Terms of Use and GNU GPL 2.0 License
+Exec="/opt/yadeggs/producer/icon-display/scripts/yadeggs-license-load.sh"
+Icon=applications-office
+Terminal=false
+Name[en_US]=Yadeggs Terms

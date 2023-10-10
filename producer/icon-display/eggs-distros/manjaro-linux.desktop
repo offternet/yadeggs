@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=Debian
+Comment=Debian
+Exec=xdg-open 'https://gitlab.manjaro.org/packages/community/penguins-eggs'
+TryExec=gimp-2.10
+Icon=/opt/yadeggs/producer/icons/builder/manjaro-linux-icon.png
+Terminal=false
+Name[en_US]=

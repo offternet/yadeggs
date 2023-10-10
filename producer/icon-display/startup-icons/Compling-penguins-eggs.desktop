@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=Compiling
+Type=Application
+Comment=Compiling
+Exec="/opt/yadeggs/producer/icon-display/scripts/compiling-icons-load.sh"
+Icon=/opt/yadeggs/producer/icons/builder/compile.png
+Terminal=false
+Name[en_US]=Compiling

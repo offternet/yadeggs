@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=Debian
+Comment=Debian
+Exec=xdg-open 'https://aur.archlinux.org/packages/penguins-eggs'
+TryExec=gimp-2.10
+Icon=/opt/yadeggs/producer/icons/builder/debian-linux-icon.png
+Terminal=false
+Name[en_US]=

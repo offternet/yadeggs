@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=Configure
+Type=Application
+Comment=Configure
+Exec="/opt/yadeggs/producer/icon-display/scripts/configure-icons-load.sh"
+Icon=applications-office
+Terminal=false
+Name[en_US]=Configure

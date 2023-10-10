@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=Lay eggs
+Type=Application
+Comment=Lay eggs - Run Unattended -- sudo eggs produce -n
+Exec="/opt/yadeggs/producer/icon-display/scripts/lay-eggs-icons-load.sh"
+Icon=/opt/yadeggs/producer/icons/builder/create.png
+Terminal=false
+Name[en_US]=Lay some penguins-eggs

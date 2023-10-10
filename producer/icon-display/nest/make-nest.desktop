@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=Build Nest for MOM
+Comment=Make penguins-eggs nest for MOM
+Exec="/opt/yadeggs/producer/scripts/make-nest.sh"
+Icon=/opt/yadeggs/producer/icons/builder/keep-icon-size.png
+Terminal=false
+Name[en_US]=Build Nest For MOM

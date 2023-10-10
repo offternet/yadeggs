@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=Debian
+Comment=Debian
+Exec=/opt/yadeggs/producer/icon-display/scripts/
+TryExec=gimp-2.10
+Icon=/opt/yadeggs/producer/icons/builder/ubuntu-linux-icon.png
+Terminal=false
+Name[en_US]=

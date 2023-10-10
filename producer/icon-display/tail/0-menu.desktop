@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=00 Menu
+GenericName=Return to begining menu
+Comment=Returns to start menu
+Exec="/home/yadho/builder/icon-display/scripts/startup-icons-load.sh"
+Icon=/home/yadho/icons/builder/menu.png
+Terminal=false
+Name[en_US]=00 tail

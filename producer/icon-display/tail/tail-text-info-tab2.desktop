@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=--tail-text-info-tab2
+GenericName=--tail-text-info-tab2
+Comment=Inserts tail -f $tailFile | yad --plug="$fkey" --tabnum=2  --text-info > $tailFile --tail & \
+Exec=/home/yadho/builder/includes/tail-text-info-tab2.sh
+Icon=multisystem
+Terminal=false
+Name[en_US]=--tail-text-info-tab2

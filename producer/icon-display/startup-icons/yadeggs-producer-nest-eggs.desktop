@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=MOMsNest
+Type=Application
+Comment=Administer MOM's Nest & eggs locally'
+Exec="/opt/yadeggs/producer/icon-display/scripts/nest-icons-load.sh"
+Icon=/opt/yadeggs/producer/icons/builder/yadeggs-nest-icon.png
+Terminal=false
+Name[en_US]=MOM's Nest & Eggs

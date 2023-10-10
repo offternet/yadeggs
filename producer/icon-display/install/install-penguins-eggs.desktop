@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=Install
+Type=Application
+Comment=Install penguins-eggs progam
+Exec="/opt/yadeggs/producer/icon-display/scripts/install-icons-load.sh"
+Icon=/opt/yadeggs/producer/icons/builder/install.png
+Terminal=false
+Name[en_US]=Install

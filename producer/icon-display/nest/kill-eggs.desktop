@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name[en_US]=eggs kill
+Version=1.0
+Type=Application
+Name=01 export
+GenericName=kill-birdies
+Comment=sudo eggs kill = Removes eggs from MOM's nest
+Exec="/opt/yadeggs/producer/scripts/approve-auto-kill-birdies-yadeggs-popup.sh"
+Icon=/opt/yadeggs/producer/icon-display/icons/eggs-nest.png
+Terminal=false
+

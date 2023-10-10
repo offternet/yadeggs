@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=Raspberry Pi
+Comment=Raspberry Pi
+Exec=/opt/yadeggs/producer/icon-display/scripts/
+TryExec=gimp-2.10
+Icon=/opt/yadeggs/producer/icons/builder/raspberry-pi-icon.png
+Terminal=false
+Name[en_US]=

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+GenericName=Tweaks
+Type=Application
+Comment=Tweak penguins-eggs progam
+Exec="/opt/yadeggs/producer/icon-display/scripts/tweaks-icons-load.sh"
+Icon=/opt/yadeggs/producer/icons/builder/tweak-penguins-eggs.png
+Terminal=false
+Name[en_US]=Tweaks

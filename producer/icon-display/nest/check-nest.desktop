@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=Check Nest
+Comment=Check what's in MOM's Nest
+Exec="/opt/yadeggs/producer/scripts/check-nest.sh"
+Icon=/opt/yadeggs/producer/icons/builder/yadeggs-nest--no-eggs-icon.png
+Terminal=false
+Name[en_US]=Check Nest

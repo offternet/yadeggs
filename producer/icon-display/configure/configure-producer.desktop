@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Comment=Configure penguins-eggs
+Exec="/opt/yadeggs/producer/icon-display/scripts/configure-icons-load.sh"
+Icon=/opt/yadeggs/producer/icons/builder/settings.png
+Terminal=false
+Name[en_US]=Configure penguins-eggs

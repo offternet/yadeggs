@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=--icons-read-dir-tab1
+GenericName=--icons-read-dir-tab1
+Comment=Inserts yad --plug="$fkey" --tabnum=1 --icons --read-dir="$MonIconDir" --monitor --single-click --item-width=60 --sort-by-name column="1" & \
+Exec=/home/yadho/builder/includes/plug-icons-read-dir-tab1.sh
+Icon=multisystem
+Terminal=false
+Name[en_US]=--icons-read-dir-tab1

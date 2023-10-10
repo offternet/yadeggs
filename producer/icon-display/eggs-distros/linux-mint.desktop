@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+GenericName=Linux Mint
+Comment=Linux Mint
+Exec=xdg-open 'https://sourceforge.net/projects/penguins-eggs/files/DEBS/'
+TryExec=gimp-2.10
+Icon=/opt/yadeggs/producer/icons/builder/linux-mint-logo.png
+Terminal=false
+Name[en_US]=
