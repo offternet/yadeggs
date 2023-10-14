@@ -1,5 +1,7 @@
 #!/bin/bash
 
+##### yad gui 1.0+ required. 
+
 KEY=$RANDOM
 
 yad --plug=$KEY --tabnum=1 \
