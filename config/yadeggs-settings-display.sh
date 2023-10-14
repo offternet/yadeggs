@@ -1,6 +1,10 @@
 #!/bin/bash
 
 ##### yad gui 1.0+ required. 
+##### Displays settings of penguins-eggs configuration files
+##### 2023 October 14 
+##### Author: Robert J. Cooper, Offternet.com
+##### License: GNU-GPL 3+ https://www.gnu.org/licenses/gpl-3.0.en.html
 
 KEY=$RANDOM
 
