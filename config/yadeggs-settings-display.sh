@@ -1,10 +1,11 @@
 #!/bin/bash
 
 ##### yad gui 1.0+ required. 
-##### Displays settings of penguins-eggs configuration files
 ##### 2023 October 14 
 ##### Author: Robert J. Cooper, Offternet.com
 ##### License: GNU-GPL 3+ https://www.gnu.org/licenses/gpl-3.0.en.html
+#####
+##### Displays settings of penguins-eggs program in yad gui window
 
 KEY=$RANDOM
 
@@ -27,7 +28,6 @@ yad --plug=$KEY --tabnum=4 \
 yad --plug=$KEY --tabnum=5  \
 --text="/etc/penguins-eggs.d/tools.yaml"   \
 --text-info --filename="/etc/penguins-eggs.d/tools.yaml" --wrap --show-uri &
-
 
 yad --plug=$KEY --tabnum=6  \
 --text="/usr/local/share/penguins-eggs/exclude.list"   \
